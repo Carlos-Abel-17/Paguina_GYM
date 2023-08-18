@@ -1,0 +1,24 @@
+.SectionTree{
+    background-color: #ff5500;
+    padding: 20px;
+}
+.conteiner-title{
+
+ .Salas-Title{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Kurale', serif;
+   font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ysabeau Infant', sans-serif;
+   
+}
+}
+.conteiner-salas{
+    margin-top: 3pc;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
